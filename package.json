@@ -1,0 +1,22 @@
+{
+  "name": "dnd-item-optimiser",
+  "version": "1.0.0",
+  "description": "Website that lets you mix and match different armour sets and see how it would affect your stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikennaoais/DnD-Item-Optimiser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikennaoais/DnD-Item-Optimiser/issues"
+  },
+  "homepage": "https://github.com/Ikennaoais/DnD-Item-Optimiser#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
